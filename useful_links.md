@@ -1,3 +1,3 @@
 # Steganography
 
- - [https://hub.docker.com/r/dominicbreuker/stego-toolkit]Docker image useful for solving Steganography challenges
+ - [ Docker image useful for solving Steganography challenges ](https://hub.docker.com/r/dominicbreuker/stego-toolkit)
