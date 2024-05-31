@@ -1,7 +1,7 @@
 # ctf-writeups
 Porg Pwn Platoon's CTF Writeups
 
-[Useful Links|useful_links.md]
+[Useful Links](useful_links.md)
 
 ## Other Write-Ups
 
