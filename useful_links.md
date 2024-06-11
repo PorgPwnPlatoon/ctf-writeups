@@ -14,6 +14,10 @@
 
 # PWN / Reversing
 * pwntools - https://docs.pwntools.com/en/stable/ (Cheatsheet: https://gist.github.com/anvbis/64907e4f90974c4bdd930baeb705dedf)
-* pwndbg   - https://github.com/pwndbg/pwndbg
-* ghidra   - https://ghidra-sre.org/
-* dogbolt  - https://dogbolt.org/  - Useful too for placing binaries through multiple de-compiler
+* GDB Plugins:
+   * pwndbg   - https://github.com/pwndbg/pwndbg
+   * gef      - https://github.com/hugsy/gef
+* Decompiler/Disassemblers:
+   * ghidra   - https://ghidra-sre.org/
+   * Binary Ninja - https://binary.ninja/
+   * dogbolt  - https://dogbolt.org/  - Useful too for placing binaries through multiple de-compiler
